@@ -7,6 +7,10 @@ MyBatis Generator で生成されるクラスを変更するプラグイン。
 * MapperファイルをRepositoryファイル名に変更する
 * EntityクラスをLombokに対応させる
 
-参考となるプラグインの資料
+本プログラムを使用する場合は Lombok をインストールしておいてください。
+
+各プログラムは以下をベースとしています。
 
 * https://github.com/dcendents/mybatis-generator-plugins
+* http://tech-blog.tsukaby.com/archives/47
+* http://jyukutyo.hatenablog.com/entry/20110930/1317425066

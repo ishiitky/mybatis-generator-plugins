@@ -17,7 +17,6 @@ import org.mybatis.generator.api.dom.java.TopLevelClass;
  * <br>
  * 本プラグインを使用することで、エンティティクラス生成時にsetter/getterメソッドを生成せず、@Dataを付与する。
  * 
- * @see http://mybatis.github.io/generator/
  * @see http://tech-blog.tsukaby.com/archives/47
  */
 public class LombokPlugin extends PluginAdapter {
