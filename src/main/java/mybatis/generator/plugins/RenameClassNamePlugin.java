@@ -13,8 +13,6 @@ import org.mybatis.generator.api.PluginAdapter;
  * <br>
  * エンティティクラスのクラス名変更は、以下のプラグインで実施可能
  * org.mybatis.generator.plugins.RenameExampleClassPlugin
- * 
- * @see http://jyukutyo.hatenablog.com/entry/20110930/1317425066
  */
 public class RenameClassNamePlugin extends PluginAdapter {
 
